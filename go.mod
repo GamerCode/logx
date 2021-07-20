@@ -1,4 +1,4 @@
-module logx
+module github.com/GamerCode/logx
 
 go 1.16
 

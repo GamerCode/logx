@@ -1,7 +1,7 @@
 package logx_test
 
 import (
-	"logx"
+	"github.com/GamerCode/logx"
 	"testing"
 )
 
