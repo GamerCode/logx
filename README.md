@@ -5,7 +5,7 @@
 package main
 
 import (
-	"logx"
+	"github.com/GamerCode/logx"
 )
 
 func main() {
